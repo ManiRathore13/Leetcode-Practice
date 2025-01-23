@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2145-grid-game) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
