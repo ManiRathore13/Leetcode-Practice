@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Graph
 |  |
 | ------- |
@@ -139,5 +140,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Stack
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
