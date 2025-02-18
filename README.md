@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0013-roman-to-integer) |
+| [1013-fibonacci-number](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2448-count-number-of-bad-pairs) |
 ## Depth-First Search
 |  |
@@ -164,4 +165,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
