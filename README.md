@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Graph
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0630-course-schedule-iii](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0630-course-schedule-iii) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Simulation
 |  |
 | ------- |
@@ -150,9 +152,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Backtracking
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
