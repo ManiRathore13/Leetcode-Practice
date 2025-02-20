@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2107-find-unique-binary-string](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2145-grid-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Graph
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
 |  |
