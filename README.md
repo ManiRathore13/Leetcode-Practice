@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1558-course-schedule-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0013-roman-to-integer) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -180,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1013-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
