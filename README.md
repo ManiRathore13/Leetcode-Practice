@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0630-course-schedule-iii](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0630-course-schedule-iii) |
 | [0854-making-a-large-island](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0854-making-a-large-island) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0013-roman-to-integer) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0148-sort-list) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
@@ -185,9 +188,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
