@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Graph
 |  |
 | ------- |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->
