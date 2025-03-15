@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2690-house-robber-iv](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2690-house-robber-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -222,5 +223,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2690-house-robber-iv](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
