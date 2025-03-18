@@ -229,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2690-house-robber-iv](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3643-zero-array-transformation-ii) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
