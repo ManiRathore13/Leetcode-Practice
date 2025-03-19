@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2448-count-number-of-bad-pairs) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
