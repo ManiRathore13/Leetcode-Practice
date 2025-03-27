@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2690-house-robber-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2792-neighboring-bitwise-xor) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2448-count-number-of-bad-pairs) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0630-course-schedule-iii](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0630-course-schedule-iii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
