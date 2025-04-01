@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0407-trapping-rain-water-ii](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0630-course-schedule-iii](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0630-course-schedule-iii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
