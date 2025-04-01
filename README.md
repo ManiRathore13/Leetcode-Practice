@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0155-min-stack) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Backtracking
@@ -273,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
