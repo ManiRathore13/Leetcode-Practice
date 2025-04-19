@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0630-course-schedule-iii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2681-put-marbles-in-bags](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2681-put-marbles-in-bags) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0148-sort-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2690-house-robber-iv](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Database
 |  |
