@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2448-count-number-of-bad-pairs) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Combinatorics
 |  |
@@ -321,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
