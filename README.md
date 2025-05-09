@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2448-count-number-of-bad-pairs) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Graph
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
 | ------- |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Design
 |  |
 | ------- |
