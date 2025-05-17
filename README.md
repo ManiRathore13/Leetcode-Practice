@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0407-trapping-rain-water-ii](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0630-course-schedule-iii](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0630-course-schedule-iii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0630-course-schedule-iii](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0630-course-schedule-iii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0868-push-dominoes](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0868-push-dominoes) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
