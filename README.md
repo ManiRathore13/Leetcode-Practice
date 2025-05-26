@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1364-tuple-with-same-product) |
 | [1500-count-largest-group](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2107-find-unique-binary-string](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2793-count-the-number-of-complete-components) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Sorting
 |  |
 | ------- |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -328,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1013-fibonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Tree
 |  |
 | ------- |
