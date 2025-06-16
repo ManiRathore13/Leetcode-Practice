@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ManiRathore13/Leetcode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
